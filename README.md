@@ -1,24 +1,31 @@
-<h1 align="center">✨𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓹𝓻𝓸𝓯𝓲𝓵𝓮 ✨<h1>
+<h1 align="center">✨ Welcome to My Profile ✨</h1>
 
 <p align="center">
-    <img align="center" src="https://i.pinimg.com/originals/5f/62/ff/5f62ff087716bc48984078eca73bf844.gif" alt="miku desu">
+    <img align="center" src="https://i.pinimg.com/originals/5f/62/ff/5f62ff087716bc48984078eca73bf844.gif" alt="Miku waving">
 </p>
 
-<h1>you can visit my website here</h1>
-<a>https://bonkizu.vercel.app/</a>
-
-<h2>❓𝓐𝓫𝓸𝓾𝓽 𝓶𝓮❓</h2>
-
-<img src="https://w0.peakpx.com/wallpaper/742/628/HD-wallpaper-cute-dog-anime-cute-chibi-dog.jpg" align="right" width=200px>
-  </div>
-<p>ʜᴇʟʟᴏ ᴛʜᴇʀᴇ! 👋 ɪ'ᴍ ʙᴏɴᴋɪᴢᴜ, ᴀ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ᴘʀᴏɢʀᴀᴍᴍᴇʀ ᴇᴀɢᴇʀ ᴛᴏ ʟᴇᴀʀɴ ᴀɴᴅ ᴇxᴘʟᴏʀᴇ ᴛʜᴇ ᴇxᴄɪᴛɪɴɢ ᴡᴏʀʟᴅ ᴏꜰ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ. ᴛʜɪꜱ ɢɪᴛʜᴜʙ ʀᴇᴘᴏꜱɪᴛᴏʀʏ ꜱᴇʀᴠᴇꜱ ᴀꜱ ᴀ ꜱʜᴏᴡᴄᴀꜱᴇ ᴏꜰ ᴍʏ ᴊᴏᴜʀɴᴇʏ ᴀꜱ ɪ ᴅɪᴠᴇ ɪɴᴛᴏ ᴛʜᴇ ʀᴇᴀʟᴍ ᴏꜰ ᴄᴏᴅɪɴɢ, ᴇxᴘᴇʀɪᴍᴇɴᴛɪɴɢ ᴡɪᴛʜ ᴅɪꜰꜰᴇʀᴇɴᴛ ʟᴀɴɢᴜᴀɢᴇꜱ, ꜰʀᴀᴍᴇᴡᴏʀᴋꜱ, ᴀɴᴅ ᴘʀᴏᴊᴇᴄᴛꜱ.</p>
-
-<br>
-“The Worst Enemy You Can Meet Will Always Be Yourself.” – Friedrich Nietzsche
-
-</div>
-<br><br><br>
-
-<h2 align="center">🐱𝓣𝓱𝓪𝓷𝓴 𝓨𝓸𝓾🐱</h2>
+<h2 align="center">🌐 Explore My Website</h2>
 <p align="center">
-<img src="https://i.pinimg.com/originals/4d/34/07/4d34072ba510830234ddf6b855238837.gif" alt=""></p>
+    <a href="https://bonkizu.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Visit%20Website-%23FF69B4?style=for-the-badge&logo=vercel&logoColor=white" alt="Website Link">
+    </a>
+</p>
+
+---
+
+<h2>❓ About Me ❓</h2>
+
+<img src="https://w0.peakpx.com/wallpaper/742/628/HD-wallpaper-cute-dog-anime-cute-chibi-dog.jpg" align="right" width="200px" alt="Cute dog anime">
+
+<p>Hi there! 👋 I'm <strong>Bonkizu</strong>, a passionate programmer with an insatiable curiosity for learning and exploring the vast world of software development. This repository serves as a showcase of my journey as I dive into coding, experiment with various languages, frameworks, and projects, and turn ideas into functional creations. ✨</p>
+
+<p>When I'm not coding, you can find me dreaming up new ideas, experimenting with tech, or just enjoying the beauty of simplicity. Let's connect and build something amazing together! 🌟</p>
+
+“The Worst Enemy You Can Meet Will Always Be Yourself.” – Friedrich Nietzsche</p>
+
+---
+
+<h2 align="center">🐱 Thank You! 🐱</h2>
+<p align="center">
+    <img src="https://i.pinimg.com/originals/4d/34/07/4d34072ba510830234ddf6b855238837.gif" alt="Thank you gif">
+</p>
